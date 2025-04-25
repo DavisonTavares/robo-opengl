@@ -7,7 +7,7 @@
   <table style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; background: #f9f9f9; display: inline-block;">
     <tr><td>
 
-### 🤖 Projeto: Robo OpenGL - Mundo Kids
+### 🤖 Projeto: Robo OpenGL 
 
 Este projeto é um robô 3D animado com textura e controle por teclado usando OpenGL e SOIL.
 
