@@ -40,7 +40,7 @@ sudo apt-get install g++ freeglut3-dev libsoil-dev
 1. Clone este repositório ou baixe os arquivos:
 
 ```bash
-git clone https://github.com/seuusuario/robo-opengl.git
+git clone https://github.com/DavisonTavares/robo-opengl.git
 cd robo-opengl
 ```
 
